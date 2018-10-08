@@ -12,7 +12,7 @@ You can use it only for .net programs currently!!!.
 1.Polymorphism      
 2.Random variable names     
 3.Better encryption         
-4.Invisible in taskbar      
+4.~~Invisible in taskbar~~ **Added in update 2.1.1**           
 5.Not limited to .net programs      
 6.Longer keys
 #  Current Detection      
