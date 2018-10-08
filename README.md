@@ -13,7 +13,7 @@ You can use it only for .net programs currently!!!.
 2.Random variable names     
 3.Better encryption         
 4.~~Invisible in taskbar~~ **Added in update 2.1**           
-5.Not limited to .net programs      
+5.~~Not limited to .net programs~~ **Added in update 2.2**      
 6.Longer keys
 #  Current Detection      
 Spyral Scanner link:        
