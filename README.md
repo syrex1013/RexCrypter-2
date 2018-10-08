@@ -11,7 +11,10 @@ You can use it only for .net programs currently!!!.
 # Upcoming
 1.Polymorphism      
 2.Random variable names     
-3.Better encryption     
+3.Better encryption         
+4.Invisible in taskbar      
+5.Not limited to .net programs      
+6.Longer keys
 #  Current Detection      
 Spyral Scanner link:        
 https://spyralscanner.net/result.php?id=QeesAJeJ9T        
