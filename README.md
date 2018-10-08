@@ -11,4 +11,8 @@ You can use it only for .net programs currently!!!.
 # Upcoming
 1.Polymorphism      
 2.Random variable names     
-3.Better encryption
+3.Better encryption     
+#  Current Detection      
+Spyral Scanner link:        
+https://spyralscanner.net/result.php?id=QeesAJeJ9T        
+Detection:1/27
