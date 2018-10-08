@@ -3,7 +3,7 @@ New,better ReXCrypter 2.0 and stub
 # Usage     
 Just run ReXCrypter 2.0, select file and stub, type key 1 and key 2 and click crypt.    
 # Features      
-* Crypted programs run in MEMORY!! It does not create and exe so it can evade antivirus!      
+* Crypted programs run in MEMORY!! It does not create an exe so it can evade antivirus!      
 * It uses AES encryption      
 * It can generated random junk code to mask encrypted virus       
 # Warning     
