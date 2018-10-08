@@ -15,4 +15,4 @@ You can use it only for .net programs currently!!!.
 #  Current Detection      
 Spyral Scanner link:        
 https://spyralscanner.net/result.php?id=QeesAJeJ9T        
-Detection:1/27
+Detection:1/31
