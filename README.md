@@ -13,7 +13,7 @@ Just run ReXCrypter 2.0, select file and stub, type key 1 and key 2 and click cr
 4.~~Invisible in taskbar~~ **Added in update 2.1**           
 5.~~Not limited to .net programs~~ **Added in update 2.2**      
 6.Longer keys
-7.Timeout in Execution so it can evade more antiviruses.
+7.~~Timeout in Execution so it can evade more antiviruses.~~ **Added in update 2.3**        
 #  Current Detection      
 Spyral Scanner link:        
 https://spyralscanner.net/result.php?id=QeesAJeJ9T        
