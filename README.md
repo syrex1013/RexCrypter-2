@@ -1,7 +1,7 @@
-# RexCrypter-2.0
-New,better ReXCrypter 2.0 and stub    
+# RexCrypter-2
+New,better ReXCrypter 2 and stub    
 # Usage     
-Just run ReXCrypter 2.0, select file and stub, type key 1 and key 2 and click crypt.    
+Just run ReXCrypter 2, select file and stub, type key 1 and key 2 and click crypt.    
 # Features      
 * Crypted **.NET** programs run in MEMORY!! It does not create an exe so it can evade antivirus! Non .NET programs run from normal .exe file.
 * It uses AES encryption      
