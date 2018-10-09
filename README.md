@@ -17,4 +17,4 @@ Just run ReXCrypter 2, select file and stub, type key 1 and key 2 and click cryp
 #  Current Detection      
 Spyral Scanner link:        
 https://spyralscanner.net/result.php?id=QeesAJeJ9T        
-Detection:1/31
+Detection:1/32      
